@@ -6,18 +6,6 @@ body {
     color: #455264;
 }
 
-/* 返回按鈕樣式 */
-.back-btn {
-    position: absolute;
-    left: 20px;
-    top: 20px;
-    font-size: 40px; /* 加粗箭頭 */
-    color: #455264;
-    background: none;
-    border: none;
-    cursor: pointer;
-}
-
 /* 內容區域 */
 .container {
     position: relative;
