@@ -24,7 +24,7 @@ body {
 
 /* 內容框 */
 .content-box {
-    width: 700px;  /* 框框寬度 */
+    width: 500px;  /* 框框寬度 */
     height: 500px; /* 框框高度 */
     height: auto; /* 自動調整高度 */
     max-height: 80vh; /* 最大高度為螢幕高度的 80% */
