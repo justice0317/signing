@@ -11,7 +11,7 @@ body {
     position: relative;
     width: 100%;
     text-align: center;
-    padding-top: 20%; /* 保證框框與螢幕頂部有距離 */
+    padding-top: 10%; /* 保證框框與螢幕頂部有距離 */
 }
 
 /* 大標題 */
